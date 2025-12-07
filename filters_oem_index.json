@@ -20,6 +20,7 @@
     "AG-088"
   ],
   "brands": [
+    "-",
     "AGCO",
     "ALLIS CHALMERS",
     "AMERICAN MOTORS AMC",
@@ -861,6 +862,24 @@
     "A700X6714EA",
     "AA6E-6714-AB",
     "AA6E6714AA",
+    "AG-005",
+    "AG-015",
+    "AG-017",
+    "AG-021",
+    "AG-023",
+    "AG-026",
+    "AG-028",
+    "AG-029",
+    "AG-035",
+    "AG-037",
+    "AG-053",
+    "AG-071",
+    "AG-075",
+    "AG-080",
+    "AG-081",
+    "AG-083",
+    "AG-085",
+    "AG-088",
     "AM0114300",
     "AM101054",
     "AM101207",
@@ -1182,6 +1201,14 @@
   "filter_brand_pairs": [
     {
       "filter_code": "AG-005",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-005"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-005",
       "brand": "CITROEN",
       "oem_numbers": [
         "MLS 000-530"
@@ -1317,6 +1344,14 @@
     },
     {
       "filter_code": "AG-015",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-015"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-015",
       "brand": "FILTRON",
       "oem_numbers": [
         "OP6412"
@@ -1357,6 +1392,14 @@
         "03C115561H"
       ],
       "count": 2
+    },
+    {
+      "filter_code": "AG-017",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-017"
+      ],
+      "count": 1
     },
     {
       "filter_code": "AG-017",
@@ -1440,6 +1483,14 @@
         "04E115561T"
       ],
       "count": 6
+    },
+    {
+      "filter_code": "AG-021",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-021"
+      ],
+      "count": 1
     },
     {
       "filter_code": "AG-021",
@@ -1766,6 +1817,14 @@
       "brand": "VERMEER",
       "oem_numbers": [
         "180005593"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-023",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-023"
       ],
       "count": 1
     },
@@ -2279,6 +2338,14 @@
     },
     {
       "filter_code": "AG-026",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-026"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-026",
       "brand": "FILTRON",
       "oem_numbers": [
         "OP595",
@@ -2519,6 +2586,14 @@
       "brand": "VOLVO",
       "oem_numbers": [
         "11713228"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-028",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-028"
       ],
       "count": 1
     },
@@ -2823,6 +2898,14 @@
     },
     {
       "filter_code": "AG-029",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-029"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-029",
       "brand": "FILTRON",
       "oem_numbers": [
         "OP5322"
@@ -2920,6 +3003,14 @@
       "brand": "VW Group (AUDI/SEAT/SKODA/VW)",
       "oem_numbers": [
         "0XW 115 351 B"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-035",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-035"
       ],
       "count": 1
     },
@@ -3079,6 +3170,14 @@
         "897321"
       ],
       "count": 2
+    },
+    {
+      "filter_code": "AG-037",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-037"
+      ],
+      "count": 1
     },
     {
       "filter_code": "AG-037",
@@ -3461,6 +3560,14 @@
     },
     {
       "filter_code": "AG-053",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-053"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-053",
       "brand": "FILTRON",
       "oem_numbers": [
         "OP558",
@@ -3677,6 +3784,14 @@
     },
     {
       "filter_code": "AG-071",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-071"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-071",
       "brand": "FIAT",
       "oem_numbers": [
         "55594651",
@@ -3736,6 +3851,14 @@
       "brand": "VAUXHALL",
       "oem_numbers": [
         "93185674"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-075",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-075"
       ],
       "count": 1
     },
@@ -3939,6 +4062,14 @@
     },
     {
       "filter_code": "AG-080",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-080"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-080",
       "brand": "FILTRON",
       "oem_numbers": [
         "OE685/1",
@@ -3990,6 +4121,14 @@
         "04152-YZZD1"
       ],
       "count": 6
+    },
+    {
+      "filter_code": "AG-081",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-081"
+      ],
+      "count": 1
     },
     {
       "filter_code": "AG-081",
@@ -4058,6 +4197,14 @@
         "J9091520003"
       ],
       "count": 8
+    },
+    {
+      "filter_code": "AG-083",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-083"
+      ],
+      "count": 1
     },
     {
       "filter_code": "AG-083",
@@ -4138,6 +4285,14 @@
     },
     {
       "filter_code": "AG-085",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-085"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-085",
       "brand": "BMW",
       "oem_numbers": [
         "11428575211"
@@ -4157,6 +4312,14 @@
       "brand": "MANN FILTER",
       "oem_numbers": [
         "HU614Z"
+      ],
+      "count": 1
+    },
+    {
+      "filter_code": "AG-088",
+      "brand": "-",
+      "oem_numbers": [
+        "AG-088"
       ],
       "count": 1
     },
