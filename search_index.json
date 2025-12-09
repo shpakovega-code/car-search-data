@@ -108,7 +108,6 @@
     "VDL BUS + COACH",
     "VETUS MARINE ENGINES",
     "VOLGA / GAZ",
-    "VOLKSWAGEN",
     "VOLVO CARS",
     "VW (VOLKSWAGEN)",
     "WEIDEMANN",
@@ -259,6 +258,7 @@
       "T-Roc / T-Roc Cabrio (A1)",
       "Taigo (Nivus)",
       "Taos",
+      "Taro",
       "Tiguan Allspace (BW2, BJ2)",
       "Tiguan I (5N)",
       "Tiguan II (AD1, AX1)",
@@ -719,9 +719,6 @@
       "Wagon R+",
       "X-90"
     ],
-    "VOLKSWAGEN": [
-      "Taro"
-    ],
     "RENAULT": [
       "Alpine V6",
       "Avantime",
@@ -1148,7 +1145,9 @@
       "Alion III",
       "Alpharad / Vellfire (H2)",
       "Alpharad / Vellfire (H3)",
+      "Alphard I",
       "Altezza",
+      "Aristo",
       "Auris I (E150)",
       "Auris II (E180)",
       "Avalon",
@@ -3918,8 +3917,8 @@
     "4663"
   ],
   "power_levels": [
-    "09/03 →",
     "-",
+    "09/03 →",
     "5",
     "13",
     "14",
