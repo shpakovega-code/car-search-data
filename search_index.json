@@ -115,6 +115,33 @@
     "ZAZ"
   ],
   "models": {
+    "ACURA": [
+      "Legend"
+    ],
+    "AEBI TRAKTOREN (CH)": [
+      "CC/Combicut"
+    ],
+    "AIRMAN": [
+      "AX (Minibagger/Compact Excavators)",
+      "HM (Minibagger/Compact Excavators)"
+    ],
+    "AKSA": [
+      "Portable Generator Sets"
+    ],
+    "ALFA ROMEO": [
+      "156/156 Sportwagon",
+      "159 /159 Sportwagon",
+      "GT",
+      "GTV Coupe (916C)",
+      "Spider (916S)"
+    ],
+    "ANTONIO CARRARO": [
+      "Tigre/Tigrecar"
+    ],
+    "ARO": [
+      "ARO 10",
+      "Spartana"
+    ],
     "AUDI": [
       "(8VA,8VS,8V7)",
       "A1 (8X)",
@@ -134,8 +161,263 @@
       "Q5 (8R)",
       "TT/TTS/TTRS II (8J)"
     ],
+    "AVANT": [
+      "200-serie",
+      "400-Serie"
+    ],
+    "BCS TRACTORS": [
+      "MA.TRA",
+      "Victor",
+      "Vivid"
+    ],
+    "BELARUS TRACTORS": [
+      "600-Serie"
+    ],
+    "BELLIER AUTOMOBILES": [
+      "Divane"
+    ],
+    "BMW": [
+      "1 (F20/F21)",
+      "2 (F22,F23,F87)",
+      "2 (G42, G87)",
+      "3 (F30/F31/F80)",
+      "3 (G20,G21,G80,G81)",
+      "3 GT (F34)",
+      "4 (F32/F33/F36/F82)",
+      "4 (G22,G23,G26,G82,G83)",
+      "5 (F10/F11/F18)",
+      "5 (G30,G31,F90)",
+      "5 (G60,G61,G90)",
+      "6 Gran Turismo (G32GT)",
+      "7 (G11/G12)",
+      "X3 (F25)",
+      "X3 (G01, F97)",
+      "X3 (G45)",
+      "X4 (F26)",
+      "X4 (G02, F98)",
+      "X5 (F15, F85)",
+      "X5 (G05, F95)",
+      "Z4 (G29)"
+    ],
+    "BOBCAT": [
+      "2000-Serie"
+    ],
+    "BOMAG": [
+      "BF-Serie",
+      "BW-Serie"
+    ],
+    "BRIGGS+STRATTON": [
+      "Intek",
+      "Intek Pro",
+      "Intek V-Twin",
+      "Vanguard V-Twin"
+    ],
+    "BYD": [
+      "F3 / TagAZ Vortex Corda",
+      "F6"
+    ],
+    "CASE CONSTRUCTION": [
+      "4000-Serie"
+    ],
+    "CATERPILLAR": [
+      "200(Kompaktlader/Skid Steer Loaders)",
+      "300 (Kettenbagger/ Crawler Excavators)",
+      "300(Kettenbagger/Crawler Excavators)",
+      "3000 (Motoren/Engines)",
+      "3000(Motoren/Engines)",
+      "301.6 C ((JBB→))",
+      "900(Radlader/Wheel Loaders)",
+      "C (Motoren/ Engines)",
+      "C(Motoren/Engines)",
+      "CB/CC/CD (Tandem-Walzen/Rollers)"
+    ],
+    "CHANGAN": [
+      "Alsvin",
+      "Love/Benben/Benni",
+      "SC"
+    ],
+    "CHATENET AUTOMOBILES": [
+      "Media",
+      "Yack"
+    ],
+    "CHERY": [
+      "A5",
+      "ARRIZO 6",
+      "Amulet/New Amulet/Flagcloud(A15)",
+      "Cowin 2/Amulet II",
+      "Cowin 3/Amulet II",
+      "E5",
+      "OMODA 5/OMODA C5",
+      "QQ 3",
+      "TIGGO 5x(Tiggo 4)",
+      "Tiggo / DR5 (T11, T11FL)",
+      "Tiggo 2",
+      "Tiggo 7/Tiggo 7 Plus/Pro",
+      "X1"
+    ],
+    "CHEVROLET": [
+      "Aveo",
+      "Captiva Sport",
+      "Cruze",
+      "Montana/ Utiliy/ Tornado Pick-up",
+      "Niva",
+      "Optra",
+      "Sail"
+    ],
+    "CHEVROLET EUROPE/ DAEWOO (GM)": [
+      "Aveo",
+      "Aveo II",
+      "Brougham",
+      "Captiva",
+      "Cielo",
+      "Cruze",
+      "Epica",
+      "Espero",
+      "Evanda",
+      "Kalos",
+      "Lacetti",
+      "Laganza",
+      "Lanos",
+      "LeMans",
+      "Matiz (Spark)",
+      "Matiz (Uz-Daewoo)",
+      "New Brougham",
+      "New Prince",
+      "Nexia",
+      "Nubira I",
+      "Nubira II",
+      "Orlando",
+      "Prince",
+      "Rezzo (Tacuma)",
+      "Super Salon",
+      "Tacuma",
+      "Tico",
+      "Trax",
+      "Volt"
+    ],
+    "CHRYSLER": [
+      "300 C"
+    ],
+    "CITROEN": [
+      "Berlingo I (M49, M59)",
+      "Berlingo II (B9)",
+      "C-Crosser",
+      "C-Elysee",
+      "C1",
+      "C1 II (B4)",
+      "C2",
+      "C3 / C3 X-TR (FC)",
+      "C3 II (A51)",
+      "C3 III (B618)",
+      "C3 Picasso",
+      "C3 Pluriel",
+      "C4",
+      "C4 Aircross",
+      "C4 II (B7)",
+      "C4 Picasso / Grand C4 Picasso",
+      "C4 Picasso / Grand C4 Picasso II (B78)",
+      "C4 Sedan",
+      "C4 SpaceTourer / Grand SpaceTourer",
+      "C5",
+      "C5 Aircross",
+      "C5 II",
+      "C5 X",
+      "C6",
+      "C8",
+      "DS3",
+      "DS4 / DS4 CROSSBACK",
+      "DS5",
+      "DS7 CROSSBACK",
+      "Dispatch II",
+      "Jumper III (Dispatch II)",
+      "Jumper III (Relay III)",
+      "Nemo",
+      "Relay III",
+      "Xsara",
+      "Xsara Picasso"
+    ],
     "CUPRA": [
       "Formentor"
+    ],
+    "DACIA (RENAULT GROUP)": [
+      "Dokker",
+      "Duster (ARO 10 4x4)",
+      "Duster I",
+      "Duster II",
+      "Duster III",
+      "Jogger",
+      "Lodgy",
+      "Logan II / MCV II",
+      "Nova/Super Nova",
+      "Pick-Up/Double Cab/Drop Side",
+      "Sandero II",
+      "Sandero/Sandero Stepway",
+      "Solenza",
+      "logan/ Logan Express/ Logan Pick-Up"
+    ],
+    "DAEWOO — FS LUBLIN": [
+      "Lublin II"
+    ],
+    "DAEWOO CONSTRUCTION EQUIPMENT": [
+      "DH (Hydraulikbagger/Hydraulic Excavators)"
+    ],
+    "DAIHATSU": [
+      "Applause",
+      "Cab Van/Sparcar",
+      "Charade",
+      "Charmant",
+      "Copen",
+      "Cuore I (L55, L60)",
+      "Cuore II (L80, L81)",
+      "Cuore III (L201)",
+      "Cuore IV (L5, L501)",
+      "Cuore V (L701)",
+      "Cuore VI",
+      "Cuore VII",
+      "Delta",
+      "Extol",
+      "Feroza/Sportrack (F300)",
+      "Gran move",
+      "Hijet",
+      "Move",
+      "Sirion I",
+      "Terios",
+      "Trevis",
+      "Wide",
+      "YRV"
+    ],
+    "DATSUN": [
+      "mi-DO",
+      "on-DO"
+    ],
+    "DEUTZ AG (ENGINES)": [
+      "1008-Serie"
+    ],
+    "DEUTZ-FAHR (SAME DEUTZ-FAHR)": [
+      "Agrokid"
+    ],
+    "DS AUTOMOBILES": [
+      "DS3",
+      "DS4 / DS4 CROSSBACK",
+      "DS4 II",
+      "DS5",
+      "DS7 / DS7 CROSSBACK",
+      "DS9"
+    ],
+    "DYNAPAC-WINGET": [
+      "CC-Serie"
+    ],
+    "EXEED(CHERY)": [
+      "LX",
+      "VX"
+    ],
+    "FIAT": [
+      "Croma II (194)",
+      "Ducato 2007 (250/251/252/254/290)",
+      "Fiorino (225)",
+      "Qubo (300)",
+      "Scudo II (272)",
+      "Ulysse II (179)"
     ],
     "FORD": [
       "B-MAX",
@@ -185,168 +467,20 @@
       "Transit Coustom 2012",
       "Transit Custom 2012"
     ],
-    "SEAT": [
-      "Alhambra II (71)",
-      "Altea/Altea XL/ Freetrack",
-      "Arona(KJ)",
-      "Ateca",
-      "Exeo",
-      "Ibiza V",
-      "Ibiza VI",
-      "Leon II",
-      "Leon III",
-      "Leon IV (KL1, KL8)",
-      "Mii",
-      "Tarraco",
-      "Toledo IV"
+    "GEELY": [
+      "CK/CK2/Echo/Otaka copy",
+      "GC6"
     ],
-    "SKODA": [
-      "Citigo (NF1)",
-      "Fabia II (5J6,5J9)",
-      "Fabia III (NJ3, NJ5)",
-      "Fabia IV (PJ3)",
-      "Kamiq",
-      "Karoq",
-      "Kodiaq",
-      "Octavia II",
-      "Octavia III",
-      "Octavia IV",
-      "Praktik",
-      "Rapid (NA2)",
-      "Rapid (NH3, NH1)",
-      "Roomster",
-      "Scala",
-      "Superb II (3T)",
-      "Superb III (3V)",
-      "Superb IV (NZ5)",
-      "Yeti (5J, 5L)"
+    "GEHL": [
+      "MB-Serie"
     ],
-    "VW (VOLKSWAGEN)": [
-      "Amarok (2H)",
-      "Amarok II (T1A, T1B)",
-      "Ameo",
-      "Arteon (3H)",
-      "Beetle / Beetle Cabrio (5C)",
-      "CC (358)",
-      "Caddy (2KA, 2KB, 2KH, 2KJ, 2CA, 2CB, 2CH, 2CJ)",
-      "Caddy III (2KA,2KB,2KH,2KJ,2CA,2CB,2CH,2CJ)",
-      "Caddy IV (2K, SA, SE)",
-      "Caddy V (SB)",
-      "Caravelle (Multivan/Californ.) T5",
-      "Caravelle (Multivan/Californ.) T6",
-      "Caravelle (Multivan/Californ.) T7",
-      "Crafter 30, 35, 50 (2E/2F)",
-      "Eos (1F7,1F8)",
-      "Golf Sportsvan (AM1)",
-      "Golf V / Golf Plus (1K1, 1K5, AJ5, 5M1, 521)",
-      "Golf V/Golf Plus (1K1, 1K5, AJ5, 5M1, 521)",
-      "Golf VI / Cabrio VI (5K1/ AJ5)",
-      "Golf VI/Cabrio VI (5K1/5,AJ5)",
-      "Golf VII (5G1/BA5)",
-      "Golf VIII",
-      "Jetta III (1K2)",
-      "Jetta IV (162)",
-      "Jetta VII (BU3)",
-      "Passat B6 (3C2/3C5)/ Passat CC B6(357)",
-      "Passat B7 (362,365)/ Passat CC B6 (357)",
-      "Passat B8 (3G2, 3G5)",
-      "Passat B9 (CJ5)",
-      "Polo V (6R, 6C)",
-      "Polo V Stufenheck / Sedan (61)",
-      "Polo VI (AW)",
-      "Scirocco III (1K8)",
-      "Sharan II (7N)",
-      "T-Cross (C11)",
-      "T-Roc / T-Roc Cabrio (A1)",
-      "Taigo (Nivus)",
-      "Taos",
-      "Tiguan Allspace (BW2, BJ2)",
-      "Tiguan I (5N)",
-      "Tiguan II (AD1, AX1)",
-      "Tiguan III (CT1)",
-      "Touran (1T)",
-      "Touran (5T)",
-      "Transporter/Bus (T5)",
-      "Transporter/Bus (T6)",
-      "Transporter/Bus (T7)",
-      "Up / Load Up",
-      "Vento India (602)"
+    "GENESIS": [
+      "G70"
     ],
-    "BYD": [
-      "F3 / TagAZ Vortex Corda",
-      "F6"
-    ],
-    "CATERPILLAR": [
-      "200(Kompaktlader/Skid Steer Loaders)",
-      "300 (Kettenbagger/ Crawler Excavators)",
-      "300(Kettenbagger/Crawler Excavators)",
-      "3000 (Motoren/Engines)",
-      "3000(Motoren/Engines)",
-      "301.6 C ((JBB→))",
-      "900(Radlader/Wheel Loaders)",
-      "C (Motoren/ Engines)",
-      "C(Motoren/Engines)",
-      "CB/CC/CD (Tandem-Walzen/Rollers)"
-    ],
-    "AIRMAN": [
-      "AX (Minibagger/Compact Excavators)",
-      "HM (Minibagger/Compact Excavators)"
-    ],
-    "CHERY": [
-      "A5",
-      "ARRIZO 6",
-      "Amulet/New Amulet/Flagcloud(A15)",
-      "Cowin 2/Amulet II",
-      "Cowin 3/Amulet II",
-      "E5",
-      "OMODA 5/OMODA C5",
-      "QQ 3",
-      "TIGGO 5x(Tiggo 4)",
-      "Tiggo / DR5 (T11, T11FL)",
-      "Tiggo 2",
-      "Tiggo 7/Tiggo 7 Plus/Pro",
-      "X1"
-    ],
-    "CITROEN": [
-      "Berlingo I (M49, M59)",
-      "Berlingo II (B9)",
-      "C-Crosser",
-      "C-Elysee",
-      "C1",
-      "C1 II (B4)",
-      "C2",
-      "C3 / C3 X-TR (FC)",
-      "C3 II (A51)",
-      "C3 III (B618)",
-      "C3 Picasso",
-      "C3 Pluriel",
-      "C4",
-      "C4 Aircross",
-      "C4 II (B7)",
-      "C4 Picasso / Grand C4 Picasso",
-      "C4 Picasso / Grand C4 Picasso II (B78)",
-      "C4 Sedan",
-      "C4 SpaceTourer / Grand SpaceTourer",
-      "C5",
-      "C5 Aircross",
-      "C5 II",
-      "C5 X",
-      "C6",
-      "C8",
-      "DS3",
-      "DS4 / DS4 CROSSBACK",
-      "DS5",
-      "DS7 CROSSBACK",
-      "Dispatch II",
-      "Jumper III (Dispatch II)",
-      "Jumper III (Relay III)",
-      "Nemo",
-      "Relay III",
-      "Xsara",
-      "Xsara Picasso"
-    ],
-    "DEUTZ-FAHR (SAME DEUTZ-FAHR)": [
-      "Agrokid"
+    "GIANNI FERRARI": [
+      "GT-Serie (Riding lawn mower)",
+      "GTS-Serie(Riding lawn mower)",
+      "PG-Serie (Riding lawn mower)"
     ],
     "GREAT WALL": [
       "C30",
@@ -357,6 +491,14 @@
       "Hover M4",
       "Peri",
       "WINGLE 5/ STEED 5 SC"
+    ],
+    "GRECAV": [
+      "EKE",
+      "Sonique"
+    ],
+    "HAKO": [
+      "Citymaster",
+      "Hakotrac"
     ],
     "HAVAL": [
       "F5",
@@ -369,6 +511,216 @@
       "Jolion",
       "M6",
       "M6 PLUS"
+    ],
+    "HERKULES (TELSNIG)": [
+      "RM-Serie"
+    ],
+    "HOLDEN AUTOMOTIVE": [
+      "Statesman"
+    ],
+    "HONDA": [
+      "Accord + Coupe II",
+      "Accord + Coupe III",
+      "Accord + Coupe IV",
+      "Accord + Coupe IX",
+      "Accord + Coupe V",
+      "Accord + Coupe VI",
+      "Accord + Coupe VII",
+      "Accord + Coupe VIII",
+      "Accord + Coupe X",
+      "Acty",
+      "CR — Z",
+      "CR-V I",
+      "CR-V II",
+      "CR-V III",
+      "CR-V IV",
+      "CR-V V (RW)",
+      "CR-V VI (RW)",
+      "CRX (Civic CRX)",
+      "CRX Targa",
+      "Capa",
+      "City",
+      "Civic IV",
+      "Civic IX",
+      "Civic V",
+      "Civic VI",
+      "Civic VII",
+      "Civic VIII",
+      "Civic X",
+      "Civic XI (FL)",
+      "Concerto",
+      "FR-V",
+      "HR-V",
+      "HR-V II",
+      "Insight",
+      "Integra",
+      "Jazz II / Fit II (GD)",
+      "Jazz III / Fit III (GE)",
+      "Jazz IV / Fit IV (GK)",
+      "Jazz V / Fit V (GR)",
+      "Legend",
+      "Logo",
+      "Pilot",
+      "Prelude",
+      "S2000",
+      "Shuttle",
+      "Stream",
+      "ZR-V"
+    ],
+    "HYUNDAI": [
+      "Accent (X3)",
+      "Accent II (LC)",
+      "Accent III (MC)",
+      "Accent IV (RB)",
+      "Atos/Atos Prime/Amica/Santro Xing (MX)",
+      "Coupé I / Tiburon I",
+      "Coupé II / Tiburon II",
+      "Creta",
+      "Elantra",
+      "Elantra II / Elantra TAGAZ (XD2)",
+      "Elantra III (MD)",
+      "Equus / Centennial",
+      "Exel",
+      "Genesis Coupe",
+      "Genesis G70",
+      "Genesis G80",
+      "Getz",
+      "Grandeur / Azera",
+      "Ioniq (AE)",
+      "Kona",
+      "Lantra",
+      "Matrix",
+      "Pony",
+      "Santa Fé I",
+      "Santa Fé II",
+      "Santa Fé III / Grand Santa Fé",
+      "Santa Fé IV",
+      "Santamo",
+      "Solaris",
+      "Solaris II / Accent (HC)",
+      "Sonata I (Y2)",
+      "Sonata II (Y3)",
+      "Sonata III (EF)",
+      "Sonata IV (EU4 / EF-B)",
+      "Sonata V (NF)",
+      "Sonata VI (YF)",
+      "Sonata VII (LF)",
+      "Sonata VIII (DN8)",
+      "Staria (US4)",
+      "Trajet (Highway)",
+      "Tucson",
+      "Tucson II (TL)",
+      "XG",
+      "i20",
+      "i20 III (BC3)",
+      "i30 + i30 cw (FD)",
+      "i30 + i30cw (GD)",
+      "i30 N",
+      "i40",
+      "ix35 / Tucson"
+    ],
+    "INFINITI": [
+      "EX",
+      "FX",
+      "G25",
+      "G35",
+      "G37",
+      "I30 (Maxima)",
+      "JX35",
+      "M (Y51)",
+      "Q70,Q70L, (Y51)",
+      "QX4 (Terrano)",
+      "QX50 (J50)",
+      "QX50 II (J55)",
+      "QX56",
+      "QX60 / JX (L50)",
+      "QX70 (S51)"
+    ],
+    "INNOCENTI": [
+      "500"
+    ],
+    "IRMER & ELZE KOMPRESSOREN": [
+      "Irmair-Serie_old"
+    ],
+    "IRMSCHER": [
+      "Coupé"
+    ],
+    "ISEKI": [
+      "Lancer"
+    ],
+    "ISEKY": [
+      "2000-Serie",
+      "3000-Serie",
+      "5100-Serie",
+      "Cather",
+      "DECK",
+      "SF-Serie(Frontmaher/Front mower)",
+      "SFH 200-Serie(Frontmaher/Front mower)",
+      "SG -Serie (Hausmeister Tracs/Caretaker Tracs)",
+      "SGR-Serie (Profi Mahtac/Profi Mowertac)",
+      "SL -Serie(Rasentraktor/Lawn tractor)",
+      "SXG-Serie (Manhtraktor/mower tractor)",
+      "SZ-Serie(Zero Turn Maher/Zero Turn mower)",
+      "TA-Serie",
+      "TE-Serie",
+      "TF-Serie",
+      "TG 5000-Serie",
+      "TH 4000-Serie",
+      "TJ-Serie",
+      "TK-Serie",
+      "TL-Serie",
+      "TM 3000-Serie",
+      "TM-Serie",
+      "TU-Serie",
+      "TXG-Serie",
+      "TXGS 2-Serie"
+    ],
+    "JAECOO": [
+      "J7"
+    ],
+    "JAGUAR": [
+      "F-Pace (X761)",
+      "XE (X760)",
+      "XF (X250)",
+      "XF, XF Sportbrake (X260)",
+      "XJ/XJR (X351)"
+    ],
+    "JCB (J.C. BAMFORD)": [
+      "8000 (Minibagger/Mini Excavators)",
+      "CX (Baggerlader / Backhoe Loaders)",
+      "TLT-Serie (Gabelstapler / Fork Lifts)"
+    ],
+    "JEEP": [
+      "CJ5-CJ8",
+      "Cherokee I (XJ)",
+      "Commander (XH, XK)",
+      "Grand Cherokee III (WH)"
+    ],
+    "JETOUR": [
+      "Dasheng/Dashing"
+    ],
+    "John DEERE": [
+      "100-Serie",
+      "200-serie",
+      "300-serie",
+      "400-Serie",
+      "F-Serie",
+      "GT-Serie",
+      "GX-Serie",
+      "Gator-Serie",
+      "L-Serie",
+      "LT-Serie",
+      "LTR-Serie",
+      "LX-Serie",
+      "X-Serie",
+      "X-Serie (Garden Tractor)",
+      "Z-Serie"
+    ],
+    "JOHNSON MARINE": [
+      "J-Serie"
+    ],
+    "JUNGHEINRICH": [
+      "DFG 300 Series"
     ],
     "KIA MOTORS": [
       "Avella",
@@ -423,6 +775,86 @@
       "Stonic (YB)",
       "Venga"
     ],
+    "KRAMER ALLRAD (WACKER NUESON)": [
+      "2000-Serie",
+      "KT-Serie (Teleskoplader/ Telscopic Loaders)"
+    ],
+    "KUBOTA": [
+      "T-Series (Lawn Tractor)",
+      "TG-Series (Lawn Tractor)"
+    ],
+    "LADA (SHIGULI)": [
+      "1118 + 1119",
+      "2104/2105/2107 (Nova)",
+      "2110 (110)",
+      "2111 (111)",
+      "2112 (112)",
+      "2170 / 2172 (Priora)",
+      "Forma",
+      "Granta",
+      "Kalina",
+      "Largus",
+      "Nadeschda",
+      "Niva / 4x4 /Taiga",
+      "Samara",
+      "Toscana",
+      "Vesta Cross, Vesta SW, Vesta SW Cross",
+      "X-RAY"
+    ],
+    "LANCIA (LANCIA AUTOBIANCHI)": [
+      "Lybra",
+      "Phedra"
+    ],
+    "LAND ROVER": [
+      "Defender 90/110/130",
+      "Discovery Sport (L550)",
+      "Freelander II (L359)",
+      "Range Rover Evoque (L538)",
+      "Range Rover Sport II (LW, L494)"
+    ],
+    "LEXUS": [
+      "CT",
+      "ES",
+      "ES (_Z10_)",
+      "GS",
+      "GX",
+      "IS (XE30)",
+      "IS+IS SportCross",
+      "LBX",
+      "LC",
+      "LM (H3)",
+      "LS",
+      "LX",
+      "NX",
+      "NX II",
+      "RC",
+      "RX",
+      "SC",
+      "UX"
+    ],
+    "LIFAN": [
+      "520"
+    ],
+    "LIGIER AUTOMOBILES": [
+      "Ambra",
+      "Be-Two",
+      "Be-Up",
+      "Nova",
+      "X-Pro",
+      "X-Too"
+    ],
+    "LINDE": [
+      "H20-Serie"
+    ],
+    "LOTUS": [
+      "Esprit",
+      "Europa S",
+      "Evora",
+      "Exige"
+    ],
+    "MASSEY-FERGUSON TRAKTOREN (AGCO)": [
+      "1500-Serie"
+    ],
     "MAZDA": [
       "121 (JASM/JBSM)",
       "2 (DL,DJ)",
@@ -456,6 +888,49 @@
       "MPV",
       "MX-5",
       "Premacy"
+    ],
+    "MEGA (AIXAM-MEGA FRANCE)": [
+      "A.751",
+      "Scouty Cabriolet"
+    ],
+    "MERCEDES — BENZ": [
+      "C-Klasse (W203/C203/S203)",
+      "C-Klasse (W204/C204/S204)",
+      "CLK (A/C209)",
+      "CLS (C218) CLS Shooting Brake (X218)",
+      "CLS (C219)",
+      "E-Klasse (W/S211)",
+      "E-Klasse (W/S212)",
+      "E-Klasse Coupe / Cabriolet (A/C207)",
+      "E-Klasse, E-Klasse Cabrio (W/S213, A/C238)",
+      "G-Klasse (W461\\/463)",
+      "GL (X164)",
+      "GL / GLS (X166)",
+      "GLE (W166)",
+      "GLE Coupe (C292)",
+      "GLK (X204)",
+      "GLS / GLC Coupe (X253/C253)",
+      "M-Klasse (W164)",
+      "M-Klasse (W166)",
+      "R-Klasse (W251)",
+      "S-Klasse (W221)",
+      "S-Klasse / S-Klasse Coupe / Cabrio (W222, A/C217)",
+      "Sprinter II (906)",
+      "Sprinter III (907, 910)",
+      "Viano (639)",
+      "Vito II (639)",
+      "X-Klasse (W470)"
+    ],
+    "MICROCAR (BENETEAU GROUP)": [
+      "Family",
+      "MC1",
+      "Pratic",
+      "Virgo"
+    ],
+    "MINI (BMW GROUP)": [
+      "Mini Cooper II, Cabr, Coupe,Club/Country/Pacem./Road",
+      "Mini One I",
+      "Mini One II, Cabrio, Clubman, Countryman"
     ],
     "MITSUBISHI": [
       "ASX",
@@ -511,6 +986,64 @@
       "Tredia",
       "iO (Pajero Pinin)"
     ],
+    "MORGAN": [
+      "Roadster"
+    ],
+    "MULTICAR (HAKO)": [
+      "M27",
+      "TREMO"
+    ],
+    "NISSAN": [
+      "200 SX, ZX (Silvia)",
+      "350 Z",
+      "370 Z",
+      "Almera (G15)",
+      "Almera I (N15)",
+      "Almera II (N16)",
+      "Almera Tino",
+      "Altima",
+      "Cube",
+      "Interstar",
+      "Juke (F15, F15E)",
+      "Juke (F16E)",
+      "Kubistar",
+      "Livina / Grand Livina (L10, L11)",
+      "Maxima",
+      "Micra III (K12)",
+      "Micra IV (K13)",
+      "Murano",
+      "NV200/Evalia",
+      "Navara (D40)",
+      "Navara NP300 (D23)",
+      "Note (E11)",
+      "Note (E12)",
+      "Pathfinder",
+      "Patrol (Y62)",
+      "Patrol GR II",
+      "Pixo",
+      "Primastar",
+      "Primera II / Avenir (P11)",
+      "Primera III (P12)",
+      "Pulsar",
+      "Qashqai",
+      "Qashqai II",
+      "Qashqai III (J12)",
+      "Rogue",
+      "Sentra",
+      "Teana",
+      "Terrano II",
+      "Terrano III (D10)",
+      "Tiida",
+      "Tiida III (C13R / Russia)",
+      "Tino",
+      "X-Trail I (T30)",
+      "X-Trail II (T31)",
+      "X-Trail III (T32)",
+      "X-Trail IV (T33)"
+    ],
+    "OMODA": [
+      "5/C5/5 Pro"
+    ],
     "OPEL": [
       "Adam",
       "Agila",
@@ -561,6 +1094,9 @@
       "Zafira B",
       "Zafira Tourer / Zafira C"
     ],
+    "PERKINS": [
+      "ER-Serie"
+    ],
     "PEUGEOT": [
       "1007",
       "107",
@@ -596,75 +1132,129 @@
       "RCZ",
       "Ranch"
     ],
-    "TAGAZ": [
-      "Aquila",
-      "C10"
+    "PIAGGIO/VESPA": [
+      "AL-Serie",
+      "M-Serie",
+      "MiniVan",
+      "PK-Serie",
+      "Porter",
+      "Porter NP6",
+      "Porter NP7",
+      "Quargo"
     ],
-    "VOLVO CARS": [
-      "C 30",
-      "C30",
-      "C70 II",
-      "S40 I",
-      "S40 II",
-      "S60 II/ V60/ Cross Country",
-      "S80 II",
-      "V40",
-      "V40 / V40 Cross Country (525/526)",
-      "V50",
-      "V70 III",
-      "XC60"
+    "RENAULT": [
+      "Alpine A 110 II",
+      "Alpine V6",
+      "Arkana",
+      "Avantime",
+      "Captur II (HF)",
+      "Clio I",
+      "Clio II / Clio II Campus/ Clio Symbol",
+      "Clio III / Clio Collection",
+      "Clio V",
+      "Dokker",
+      "Duster I",
+      "Duster II",
+      "Duster III",
+      "Espace III/Grand Espace III",
+      "Espace IV / Grand Espace IV",
+      "Espase IV/ Grand Espace IV",
+      "Express/Extra",
+      "Fluence",
+      "Fuego",
+      "Jogger",
+      "Kangoo II/ Grand Kangoo/ Kangoo Be Bop",
+      "Kangoo/Kangoo Express, Rapid",
+      "Kaptur (Russia)",
+      "Koleos",
+      "Laguna I",
+      "Laguna II",
+      "Laguna III",
+      "Latitude",
+      "Lodgy",
+      "Logan II",
+      "Master I",
+      "Master II/Master Pro/Master Maxi",
+      "Megane CC",
+      "Megane I",
+      "Megane II",
+      "Megane III",
+      "Megane Scenic",
+      "Modus/Grand Modus",
+      "Mégane IV",
+      "R 11",
+      "R 18",
+      "R 19",
+      "R 21",
+      "R 4",
+      "R 5 I",
+      "R 5 II",
+      "R 6",
+      "R 9",
+      "Rapid",
+      "Sandero",
+      "Sandero II",
+      "Scenic I",
+      "Scenic II/ Grand Scenic",
+      "Scenic III/ Grand Scenic",
+      "Scenic RX4",
+      "Scénic III / Grand Scénic",
+      "Sport Spider",
+      "Symbol",
+      "Thalia I",
+      "Thalia II",
+      "Trafic I",
+      "Trafic II/ Trafic Generation",
+      "Twingo I",
+      "Twingo II",
+      "Vel Satis",
+      "Wind",
+      "Winnebago",
+      "logan/ Logan Express/ Logan Pick-Up"
     ],
-    "ACURA": [
-      "Legend"
+    "ROVER (MG ROVER GROUP LTD)": [
+      "Rover 2000-3500 (SD1)"
     ],
-    "HONDA": [
-      "Accord + Coupe II",
-      "Accord + Coupe III",
-      "Accord + Coupe IV",
-      "Accord + Coupe IX",
-      "Accord + Coupe V",
-      "Accord + Coupe VI",
-      "Accord + Coupe VII",
-      "Accord + Coupe VIII",
-      "Accord + Coupe X",
-      "Acty",
-      "CR — Z",
-      "CR-V I",
-      "CR-V II",
-      "CR-V III",
-      "CR-V IV",
-      "CR-V V (RW)",
-      "CR-V VI (RW)",
-      "CRX (Civic CRX)",
-      "CRX Targa",
-      "Capa",
-      "City",
-      "Civic IV",
-      "Civic IX",
-      "Civic V",
-      "Civic VI",
-      "Civic VII",
-      "Civic VIII",
-      "Civic X",
-      "Civic XI (FL)",
-      "Concerto",
-      "FR-V",
-      "HR-V",
-      "HR-V II",
-      "Insight",
-      "Integra",
-      "Jazz II / Fit II (GD)",
-      "Jazz III / Fit III (GE)",
-      "Jazz IV / Fit IV (GK)",
-      "Jazz V / Fit V (GR)",
-      "Legend",
-      "Logo",
-      "Pilot",
-      "Prelude",
-      "S2000",
-      "Shuttle",
-      "Stream",
-      "ZR-V"
+    "SAAB": [
+      "9-3/ 9-3 x (Serie II/YS3F)",
+      "9-5 II",
+      "900 II"
+    ],
+    "SEAT": [
+      "Alhambra II (71)",
+      "Altea/Altea XL/ Freetrack",
+      "Arona(KJ)",
+      "Ateca",
+      "Exeo",
+      "Ibiza V",
+      "Ibiza VI",
+      "Leon II",
+      "Leon III",
+      "Leon IV (KL1, KL8)",
+      "Mii",
+      "Tarraco",
+      "Toledo IV"
+    ],
+    "SKODA": [
+      "Citigo (NF1)",
+      "Fabia II (5J6,5J9)",
+      "Fabia III (NJ3, NJ5)",
+      "Fabia IV (PJ3)",
+      "Kamiq",
+      "Karoq",
+      "Kodiaq",
+      "Octavia II",
+      "Octavia III",
+      "Octavia IV",
+      "Praktik",
+      "Rapid (NA2)",
+      "Rapid (NH3, NH1)",
+      "Roomster",
+      "Scala",
+      "Superb II (3T)",
+      "Superb III (3V)",
+      "Superb IV (NZ5)",
+      "Yeti (5J, 5L)"
     ],
     "SUBARU": [
       "BRZ",
@@ -693,6 +1283,40 @@
       "Tribeca B9",
       "XV I",
       "XV II (GT3/GT7/GTE)"
+    ],
+    "SUZUKI": [
+      "Across",
+      "Alto",
+      "Baleno",
+      "Baleno II (FW,EW)",
+      "Cappucino",
+      "Carry",
+      "Eljot LJ",
+      "Jimny I",
+      "Jimny II",
+      "S-Cross",
+      "SX4 S-Cross",
+      "Samurai / SJ 410 + 413",
+      "Splash",
+      "Swace",
+      "Swift I (AA)",
+      "Swift II (EA/MA)",
+      "Swift IV (AZG/AZH)",
+      "Swift V (AZ)",
+      "Vitara",
+      "Vitara II",
+      "Wagon R+",
+      "X-90"
+    ],
+    "SUZUKI MARINE": [
+      "DF-Serie"
+    ],
+    "TAGAZ": [
+      "Aquila",
+      "C10"
+    ],
+    "TONG YANG MOOLSAN (TYM)": [
+      "500-Serie"
     ],
     "TOYOTA": [
       "4-Runner",
@@ -832,574 +1456,6 @@
       "Yaris III (XP13)",
       "Yaris IV / Yaris Cross"
     ],
-    "DACIA (RENAULT GROUP)": [
-      "Dokker",
-      "Duster (ARO 10 4x4)",
-      "Duster I",
-      "Duster II",
-      "Duster III",
-      "Jogger",
-      "Lodgy",
-      "Logan II / MCV II",
-      "Nova/Super Nova",
-      "Pick-Up/Double Cab/Drop Side",
-      "Sandero II",
-      "Sandero/Sandero Stepway",
-      "Solenza",
-      "logan/ Logan Express/ Logan Pick-Up"
-    ],
-    "HYUNDAI": [
-      "Accent (X3)",
-      "Accent II (LC)",
-      "Accent III (MC)",
-      "Accent IV (RB)",
-      "Atos/Atos Prime/Amica/Santro Xing (MX)",
-      "Coupé I / Tiburon I",
-      "Coupé II / Tiburon II",
-      "Creta",
-      "Elantra",
-      "Elantra II / Elantra TAGAZ (XD2)",
-      "Elantra III (MD)",
-      "Equus / Centennial",
-      "Exel",
-      "Genesis Coupe",
-      "Genesis G70",
-      "Genesis G80",
-      "Getz",
-      "Grandeur / Azera",
-      "Ioniq (AE)",
-      "Kona",
-      "Lantra",
-      "Matrix",
-      "Pony",
-      "Santa Fé I",
-      "Santa Fé II",
-      "Santa Fé III / Grand Santa Fé",
-      "Santa Fé IV",
-      "Santamo",
-      "Solaris",
-      "Solaris II / Accent (HC)",
-      "Sonata I (Y2)",
-      "Sonata II (Y3)",
-      "Sonata III (EF)",
-      "Sonata IV (EU4 / EF-B)",
-      "Sonata V (NF)",
-      "Sonata VI (YF)",
-      "Sonata VII (LF)",
-      "Sonata VIII (DN8)",
-      "Staria (US4)",
-      "Trajet (Highway)",
-      "Tucson",
-      "Tucson II (TL)",
-      "XG",
-      "i20",
-      "i20 III (BC3)",
-      "i30 + i30 cw (FD)",
-      "i30 + i30cw (GD)",
-      "i30 N",
-      "i40",
-      "ix35 / Tucson"
-    ],
-    "INFINITI": [
-      "EX",
-      "FX",
-      "G25",
-      "G35",
-      "G37",
-      "I30 (Maxima)",
-      "JX35",
-      "M (Y51)",
-      "Q70,Q70L, (Y51)",
-      "QX4 (Terrano)",
-      "QX50 (J50)",
-      "QX50 II (J55)",
-      "QX56",
-      "QX60 / JX (L50)",
-      "QX70 (S51)"
-    ],
-    "NISSAN": [
-      "200 SX, ZX (Silvia)",
-      "350 Z",
-      "370 Z",
-      "Almera (G15)",
-      "Almera I (N15)",
-      "Almera II (N16)",
-      "Almera Tino",
-      "Altima",
-      "Cube",
-      "Interstar",
-      "Juke (F15, F15E)",
-      "Juke (F16E)",
-      "Kubistar",
-      "Livina / Grand Livina (L10, L11)",
-      "Maxima",
-      "Micra III (K12)",
-      "Micra IV (K13)",
-      "Murano",
-      "NV200/Evalia",
-      "Navara (D40)",
-      "Navara NP300 (D23)",
-      "Note (E11)",
-      "Note (E12)",
-      "Pathfinder",
-      "Patrol (Y62)",
-      "Patrol GR II",
-      "Pixo",
-      "Primastar",
-      "Primera II / Avenir (P11)",
-      "Primera III (P12)",
-      "Pulsar",
-      "Qashqai",
-      "Qashqai II",
-      "Qashqai III (J12)",
-      "Rogue",
-      "Sentra",
-      "Teana",
-      "Terrano II",
-      "Terrano III (D10)",
-      "Tiida",
-      "Tiida III (C13R / Russia)",
-      "Tino",
-      "X-Trail I (T30)",
-      "X-Trail II (T31)",
-      "X-Trail III (T32)",
-      "X-Trail IV (T33)"
-    ],
-    "RENAULT": [
-      "Alpine A 110 II",
-      "Alpine V6",
-      "Arkana",
-      "Avantime",
-      "Captur II (HF)",
-      "Clio I",
-      "Clio II / Clio II Campus/ Clio Symbol",
-      "Clio III / Clio Collection",
-      "Clio V",
-      "Dokker",
-      "Duster I",
-      "Duster II",
-      "Duster III",
-      "Espace III/Grand Espace III",
-      "Espace IV / Grand Espace IV",
-      "Espase IV/ Grand Espace IV",
-      "Express/Extra",
-      "Fluence",
-      "Fuego",
-      "Jogger",
-      "Kangoo II/ Grand Kangoo/ Kangoo Be Bop",
-      "Kangoo/Kangoo Express, Rapid",
-      "Kaptur (Russia)",
-      "Koleos",
-      "Laguna I",
-      "Laguna II",
-      "Laguna III",
-      "Latitude",
-      "Lodgy",
-      "Logan II",
-      "Master I",
-      "Master II/Master Pro/Master Maxi",
-      "Megane CC",
-      "Megane I",
-      "Megane II",
-      "Megane III",
-      "Megane Scenic",
-      "Modus/Grand Modus",
-      "Mégane IV",
-      "R 11",
-      "R 18",
-      "R 19",
-      "R 21",
-      "R 4",
-      "R 5 I",
-      "R 5 II",
-      "R 6",
-      "R 9",
-      "Rapid",
-      "Sandero",
-      "Sandero II",
-      "Scenic I",
-      "Scenic II/ Grand Scenic",
-      "Scenic III/ Grand Scenic",
-      "Scenic RX4",
-      "Scénic III / Grand Scénic",
-      "Sport Spider",
-      "Symbol",
-      "Thalia I",
-      "Thalia II",
-      "Trafic I",
-      "Trafic II/ Trafic Generation",
-      "Twingo I",
-      "Twingo II",
-      "Vel Satis",
-      "Wind",
-      "Winnebago",
-      "logan/ Logan Express/ Logan Pick-Up"
-    ],
-    "CHEVROLET": [
-      "Aveo",
-      "Captiva Sport",
-      "Cruze",
-      "Montana/ Utiliy/ Tornado Pick-up",
-      "Niva",
-      "Optra",
-      "Sail"
-    ],
-    "DATSUN": [
-      "mi-DO",
-      "on-DO"
-    ],
-    "LADA (SHIGULI)": [
-      "1118 + 1119",
-      "2104/2105/2107 (Nova)",
-      "2110 (110)",
-      "2111 (111)",
-      "2112 (112)",
-      "2170 / 2172 (Priora)",
-      "Forma",
-      "Granta",
-      "Kalina",
-      "Largus",
-      "Nadeschda",
-      "Niva / 4x4 /Taiga",
-      "Samara",
-      "Toscana",
-      "Vesta Cross, Vesta SW, Vesta SW Cross",
-      "X-RAY"
-    ],
-    "SUZUKI": [
-      "Across",
-      "Alto",
-      "Baleno",
-      "Baleno II (FW,EW)",
-      "Cappucino",
-      "Carry",
-      "Eljot LJ",
-      "Jimny I",
-      "Jimny II",
-      "S-Cross",
-      "SX4 S-Cross",
-      "Samurai / SJ 410 + 413",
-      "Splash",
-      "Swace",
-      "Swift I (AA)",
-      "Swift II (EA/MA)",
-      "Swift IV (AZG/AZH)",
-      "Swift V (AZ)",
-      "Vitara",
-      "Vitara II",
-      "Wagon R+",
-      "X-90"
-    ],
-    "ALFA ROMEO": [
-      "156/156 Sportwagon",
-      "159 /159 Sportwagon",
-      "GT",
-      "GTV Coupe (916C)",
-      "Spider (916S)"
-    ],
-    "ANTONIO CARRARO": [
-      "Tigre/Tigrecar"
-    ],
-    "ARO": [
-      "ARO 10",
-      "Spartana"
-    ],
-    "BCS TRACTORS": [
-      "MA.TRA",
-      "Victor",
-      "Vivid"
-    ],
-    "BELARUS TRACTORS": [
-      "600-Serie"
-    ],
-    "BELLIER AUTOMOBILES": [
-      "Divane"
-    ],
-    "CASE CONSTRUCTION": [
-      "4000-Serie"
-    ],
-    "CHATENET AUTOMOBILES": [
-      "Media",
-      "Yack"
-    ],
-    "DAEWOO CONSTRUCTION EQUIPMENT": [
-      "DH (Hydraulikbagger/Hydraulic Excavators)"
-    ],
-    "DEUTZ AG (ENGINES)": [
-      "1008-Serie"
-    ],
-    "GEHL": [
-      "MB-Serie"
-    ],
-    "GRECAV": [
-      "EKE",
-      "Sonique"
-    ],
-    "HAKO": [
-      "Citymaster",
-      "Hakotrac"
-    ],
-    "JEEP": [
-      "CJ5-CJ8",
-      "Cherokee I (XJ)",
-      "Commander (XH, XK)",
-      "Grand Cherokee III (WH)"
-    ],
-    "LANCIA (LANCIA AUTOBIANCHI)": [
-      "Lybra",
-      "Phedra"
-    ],
-    "LIGIER AUTOMOBILES": [
-      "Ambra",
-      "Be-Two",
-      "Be-Up",
-      "Nova",
-      "X-Pro",
-      "X-Too"
-    ],
-    "MEGA (AIXAM-MEGA FRANCE)": [
-      "A.751",
-      "Scouty Cabriolet"
-    ],
-    "MICROCAR (BENETEAU GROUP)": [
-      "Family",
-      "MC1",
-      "Pratic",
-      "Virgo"
-    ],
-    "PIAGGIO/VESPA": [
-      "AL-Serie",
-      "M-Serie",
-      "MiniVan",
-      "PK-Serie",
-      "Porter",
-      "Porter NP6",
-      "Porter NP7",
-      "Quargo"
-    ],
-    "VAUXHALL-BEDFORD (LCV)": [
-      "Arena",
-      "Astramax/Astra Van MK I+II",
-      "Astramax/Astra Van MK III",
-      "Astramax/Astra Van MK IV",
-      "Astramax/Astra Van MK V",
-      "Combo / Corsa Van MK I",
-      "Combo / Corsa Van MK II",
-      "Novavan",
-      "Rascal",
-      "Vivaro A"
-    ],
-    "VETUS MARINE ENGINES": [
-      "P-Serie"
-    ],
-    "WEIDEMANN": [
-      "1000-Serie",
-      "2000-Serie",
-      "Teleskop"
-    ],
-    "AEBI TRAKTOREN (CH)": [
-      "CC/Combicut"
-    ],
-    "AVANT": [
-      "200-serie",
-      "400-Serie"
-    ],
-    "BOMAG": [
-      "BF-Serie",
-      "BW-Serie"
-    ],
-    "BRIGGS+STRATTON": [
-      "Intek",
-      "Intek Pro",
-      "Intek V-Twin",
-      "Vanguard V-Twin"
-    ],
-    "DAIHATSU": [
-      "Applause",
-      "Cab Van/Sparcar",
-      "Charade",
-      "Charmant",
-      "Copen",
-      "Cuore I (L55, L60)",
-      "Cuore II (L80, L81)",
-      "Cuore III (L201)",
-      "Cuore IV (L5, L501)",
-      "Cuore V (L701)",
-      "Cuore VI",
-      "Cuore VII",
-      "Delta",
-      "Extol",
-      "Feroza/Sportrack (F300)",
-      "Gran move",
-      "Hijet",
-      "Move",
-      "Sirion I",
-      "Terios",
-      "Trevis",
-      "Wide",
-      "YRV"
-    ],
-    "DYNAPAC-WINGET": [
-      "CC-Serie"
-    ],
-    "EXEED(CHERY)": [
-      "LX",
-      "VX"
-    ],
-    "GIANNI FERRARI": [
-      "GT-Serie (Riding lawn mower)",
-      "GTS-Serie(Riding lawn mower)",
-      "PG-Serie (Riding lawn mower)"
-    ],
-    "HERKULES (TELSNIG)": [
-      "RM-Serie"
-    ],
-    "IRMER & ELZE KOMPRESSOREN": [
-      "Irmair-Serie_old"
-    ],
-    "ISEKI": [
-      "Lancer"
-    ],
-    "JAECOO": [
-      "J7"
-    ],
-    "JCB (J.C. BAMFORD)": [
-      "8000 (Minibagger/Mini Excavators)",
-      "CX (Baggerlader / Backhoe Loaders)",
-      "TLT-Serie (Gabelstapler / Fork Lifts)"
-    ],
-    "JETOUR": [
-      "Dasheng/Dashing"
-    ],
-    "John DEERE": [
-      "100-Serie",
-      "200-serie",
-      "300-serie",
-      "400-Serie",
-      "F-Serie",
-      "GT-Serie",
-      "GX-Serie",
-      "Gator-Serie",
-      "L-Serie",
-      "LT-Serie",
-      "LTR-Serie",
-      "LX-Serie",
-      "X-Serie",
-      "X-Serie (Garden Tractor)",
-      "Z-Serie"
-    ],
-    "JUNGHEINRICH": [
-      "DFG 300 Series"
-    ],
-    "KRAMER ALLRAD (WACKER NUESON)": [
-      "2000-Serie",
-      "KT-Serie (Teleskoplader/ Telscopic Loaders)"
-    ],
-    "LEXUS": [
-      "CT",
-      "ES",
-      "ES (_Z10_)",
-      "GS",
-      "GX",
-      "IS (XE30)",
-      "IS+IS SportCross",
-      "LBX",
-      "LC",
-      "LM (H3)",
-      "LS",
-      "LX",
-      "NX",
-      "NX II",
-      "RC",
-      "RX",
-      "SC",
-      "UX"
-    ],
-    "LOTUS": [
-      "Esprit",
-      "Europa S",
-      "Evora",
-      "Exige"
-    ],
-    "MINI (BMW GROUP)": [
-      "Mini Cooper II, Cabr, Coupe,Club/Country/Pacem./Road",
-      "Mini One I",
-      "Mini One II, Cabrio, Clubman, Countryman"
-    ],
-    "MORGAN": [
-      "Roadster"
-    ],
-    "OMODA": [
-      "5/C5/5 Pro"
-    ],
-    "PERKINS": [
-      "ER-Serie"
-    ],
-    "TONG YANG MOOLSAN (TYM)": [
-      "500-Serie"
-    ],
-    "JAGUAR": [
-      "F-Pace (X761)",
-      "XE (X760)",
-      "XF (X250)",
-      "XF, XF Sportbrake (X260)",
-      "XJ/XJR (X351)"
-    ],
-    "LAND ROVER": [
-      "Defender 90/110/130",
-      "Discovery Sport (L550)",
-      "Freelander II (L359)",
-      "Range Rover Evoque (L538)",
-      "Range Rover Sport II (LW, L494)"
-    ],
-    "CHEVROLET EUROPE/ DAEWOO (GM)": [
-      "Aveo",
-      "Aveo II",
-      "Brougham",
-      "Captiva",
-      "Cielo",
-      "Cruze",
-      "Epica",
-      "Espero",
-      "Evanda",
-      "Kalos",
-      "Lacetti",
-      "Laganza",
-      "Lanos",
-      "LeMans",
-      "Matiz (Spark)",
-      "Matiz (Uz-Daewoo)",
-      "New Brougham",
-      "New Prince",
-      "Nexia",
-      "Nubira I",
-      "Nubira II",
-      "Orlando",
-      "Prince",
-      "Rezzo (Tacuma)",
-      "Super Salon",
-      "Tacuma",
-      "Tico",
-      "Trax",
-      "Volt"
-    ],
-    "DAEWOO — FS LUBLIN": [
-      "Lublin II"
-    ],
-    "HOLDEN AUTOMOTIVE": [
-      "Statesman"
-    ],
-    "IRMSCHER": [
-      "Coupé"
-    ],
-    "ROVER (MG ROVER GROUP LTD)": [
-      "Rover 2000-3500 (SD1)"
-    ],
-    "SAAB": [
-      "9-3/ 9-3 x (Serie II/YS3F)",
-      "9-5 II",
-      "900 II"
-    ],
     "UZ-DAEWOO": [
       "9000",
       "MATIZ",
@@ -1436,71 +1492,6 @@
       "Zaifra Mk I",
       "Zaifra Mk II"
     ],
-    "ZAZ": [
-      "Lanos",
-      "Sens/Chance"
-    ],
-    "AKSA": [
-      "Portable Generator Sets"
-    ],
-    "BOBCAT": [
-      "2000-Serie"
-    ],
-    "CHANGAN": [
-      "Alsvin",
-      "Love/Benben/Benni",
-      "SC"
-    ],
-    "GEELY": [
-      "CK/CK2/Echo/Otaka copy",
-      "GC6"
-    ],
-    "INNOCENTI": [
-      "500"
-    ],
-    "ISEKY": [
-      "2000-Serie",
-      "3000-Serie",
-      "5100-Serie",
-      "Cather",
-      "DECK",
-      "SF-Serie(Frontmaher/Front mower)",
-      "SFH 200-Serie(Frontmaher/Front mower)",
-      "SG -Serie (Hausmeister Tracs/Caretaker Tracs)",
-      "SGR-Serie (Profi Mahtac/Profi Mowertac)",
-      "SL -Serie(Rasentraktor/Lawn tractor)",
-      "SXG-Serie (Manhtraktor/mower tractor)",
-      "SZ-Serie(Zero Turn Maher/Zero Turn mower)",
-      "TA-Serie",
-      "TE-Serie",
-      "TF-Serie",
-      "TG 5000-Serie",
-      "TH 4000-Serie",
-      "TJ-Serie",
-      "TK-Serie",
-      "TL-Serie",
-      "TM 3000-Serie",
-      "TM-Serie",
-      "TU-Serie",
-      "TXG-Serie",
-      "TXGS 2-Serie"
-    ],
-    "JOHNSON MARINE": [
-      "J-Serie"
-    ],
-    "KUBOTA": [
-      "T-Series (Lawn Tractor)",
-      "TG-Series (Lawn Tractor)"
-    ],
-    "LIFAN": [
-      "520"
-    ],
-    "MASSEY-FERGUSON TRAKTOREN (AGCO)": [
-      "1500-Serie"
-    ],
-    "SUZUKI MARINE": [
-      "DF-Serie"
-    ],
     "VAUXHALL": [
       "Adam",
       "Agila",
@@ -1521,91 +1512,100 @@
       "Zafira Mk II",
       "Zafira Mk III / Tourer"
     ],
-    "FIAT": [
-      "Croma II (194)",
-      "Ducato 2007 (250/251/252/254/290)",
-      "Fiorino (225)",
-      "Qubo (300)",
-      "Scudo II (272)",
-      "Ulysse II (179)"
-    ],
-    "DS AUTOMOBILES": [
-      "DS3",
-      "DS4 / DS4 CROSSBACK",
-      "DS4 II",
-      "DS5",
-      "DS7 / DS7 CROSSBACK",
-      "DS9"
-    ],
-    "LINDE": [
-      "H20-Serie"
-    ],
-    "MULTICAR (HAKO)": [
-      "M27",
-      "TREMO"
-    ],
-    "VOLGA / GAZ": [
-      "Gazelle Next"
-    ],
-    "GENESIS": [
-      "G70"
-    ],
-    "CHRYSLER": [
-      "300 C"
-    ],
-    "MERCEDES — BENZ": [
-      "C-Klasse (W203/C203/S203)",
-      "C-Klasse (W204/C204/S204)",
-      "CLK (A/C209)",
-      "CLS (C218) CLS Shooting Brake (X218)",
-      "CLS (C219)",
-      "E-Klasse (W/S211)",
-      "E-Klasse (W/S212)",
-      "E-Klasse Coupe / Cabriolet (A/C207)",
-      "E-Klasse, E-Klasse Cabrio (W/S213, A/C238)",
-      "G-Klasse (W461\\/463)",
-      "GL (X164)",
-      "GL / GLS (X166)",
-      "GLE (W166)",
-      "GLE Coupe (C292)",
-      "GLK (X204)",
-      "GLS / GLC Coupe (X253/C253)",
-      "M-Klasse (W164)",
-      "M-Klasse (W166)",
-      "R-Klasse (W251)",
-      "S-Klasse (W221)",
-      "S-Klasse / S-Klasse Coupe / Cabrio (W222, A/C217)",
-      "Sprinter II (906)",
-      "Sprinter III (907, 910)",
-      "Viano (639)",
-      "Vito II (639)",
-      "X-Klasse (W470)"
+    "VAUXHALL-BEDFORD (LCV)": [
+      "Arena",
+      "Astramax/Astra Van MK I+II",
+      "Astramax/Astra Van MK III",
+      "Astramax/Astra Van MK IV",
+      "Astramax/Astra Van MK V",
+      "Combo / Corsa Van MK I",
+      "Combo / Corsa Van MK II",
+      "Novavan",
+      "Rascal",
+      "Vivaro A"
     ],
     "VDL BUS + COACH": [
       "VDL MidCity / MidEuro"
     ],
-    "BMW": [
-      "1 (F20/F21)",
-      "2 (F22,F23,F87)",
-      "2 (G42, G87)",
-      "3 (F30/F31/F80)",
-      "3 (G20,G21,G80,G81)",
-      "3 GT (F34)",
-      "4 (F32/F33/F36/F82)",
-      "4 (G22,G23,G26,G82,G83)",
-      "5 (F10/F11/F18)",
-      "5 (G30,G31,F90)",
-      "5 (G60,G61,G90)",
-      "6 Gran Turismo (G32GT)",
-      "7 (G11/G12)",
-      "X3 (F25)",
-      "X3 (G01, F97)",
-      "X3 (G45)",
-      "X4 (F26)",
-      "X4 (G02, F98)",
-      "X5 (F15, F85)",
-      "X5 (G05, F95)",
-      "Z4 (G29)"
+    "VETUS MARINE ENGINES": [
+      "P-Serie"
+    ],
+    "VOLGA / GAZ": [
+      "Gazelle Next"
+    ],
+    "VOLVO CARS": [
+      "C 30",
+      "C30",
+      "C70 II",
+      "S40 I",
+      "S40 II",
+      "S60 II/ V60/ Cross Country",
+      "S80 II",
+      "V40",
+      "V40 / V40 Cross Country (525/526)",
+      "V50",
+      "V70 III",
+      "XC60"
+    ],
+    "VW (VOLKSWAGEN)": [
+      "Amarok (2H)",
+      "Amarok II (T1A, T1B)",
+      "Ameo",
+      "Arteon (3H)",
+      "Beetle / Beetle Cabrio (5C)",
+      "CC (358)",
+      "Caddy (2KA, 2KB, 2KH, 2KJ, 2CA, 2CB, 2CH, 2CJ)",
+      "Caddy III (2KA,2KB,2KH,2KJ,2CA,2CB,2CH,2CJ)",
+      "Caddy IV (2K, SA, SE)",
+      "Caddy V (SB)",
+      "Caravelle (Multivan/Californ.) T5",
+      "Caravelle (Multivan/Californ.) T6",
+      "Caravelle (Multivan/Californ.) T7",
+      "Crafter 30, 35, 50 (2E/2F)",
+      "Eos (1F7,1F8)",
+      "Golf Sportsvan (AM1)",
+      "Golf V / Golf Plus (1K1, 1K5, AJ5, 5M1, 521)",
+      "Golf V/Golf Plus (1K1, 1K5, AJ5, 5M1, 521)",
+      "Golf VI / Cabrio VI (5K1/ AJ5)",
+      "Golf VI/Cabrio VI (5K1/5,AJ5)",
+      "Golf VII (5G1/BA5)",
+      "Golf VIII",
+      "Jetta III (1K2)",
+      "Jetta IV (162)",
+      "Jetta VII (BU3)",
+      "Passat B6 (3C2/3C5)/ Passat CC B6(357)",
+      "Passat B7 (362,365)/ Passat CC B6 (357)",
+      "Passat B8 (3G2, 3G5)",
+      "Passat B9 (CJ5)",
+      "Polo V (6R, 6C)",
+      "Polo V Stufenheck / Sedan (61)",
+      "Polo VI (AW)",
+      "Scirocco III (1K8)",
+      "Sharan II (7N)",
+      "T-Cross (C11)",
+      "T-Roc / T-Roc Cabrio (A1)",
+      "Taigo (Nivus)",
+      "Taos",
+      "Tiguan Allspace (BW2, BJ2)",
+      "Tiguan I (5N)",
+      "Tiguan II (AD1, AX1)",
+      "Tiguan III (CT1)",
+      "Touran (1T)",
+      "Touran (5T)",
+      "Transporter/Bus (T5)",
+      "Transporter/Bus (T6)",
+      "Transporter/Bus (T7)",
+      "Up / Load Up",
+      "Vento India (602)"
+    ],
+    "WEIDEMANN": [
+      "1000-Serie",
+      "2000-Serie",
+      "Teleskop"
+    ],
+    "ZAZ": [
+      "Lanos",
+      "Sens/Chance"
     ]
   },
   "engine_codes": [
@@ -4167,8 +4167,8 @@
     "5552"
   ],
   "power_levels": [
-    "09/03 →",
     "-",
+    "09/03 →",
     "5",
     "13",
     "14",
